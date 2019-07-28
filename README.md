@@ -1,2 +1,2 @@
-# PML
-Coursera Practical Machine Learning Assignment Wk4
+Machine Learns Human Activity
+Coursera Practical Machine Learning - Week4 assignment
